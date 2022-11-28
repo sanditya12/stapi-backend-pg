@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "letters",
+  "info": {
+    "singularName": "letter",
+    "pluralName": "letters",
+    "displayName": "letter"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
